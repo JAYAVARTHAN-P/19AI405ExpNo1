@@ -1,6 +1,6 @@
-### ExpNo 1 :Developing AI Agent with PEAS Description
-### Name: Jayavarthan P
-### Register Number:212222100015
+# ExpNo 1 :Developing AI Agent with PEAS Description
+## Name: Jayavarthan P
+## Register Number:212222100015
 ## AIM:
 
 To find the PEAS description for the given AI problem and develop an AI agent.
