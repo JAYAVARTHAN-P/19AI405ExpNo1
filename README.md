@@ -1,4 +1,4 @@
-ExpNo 1 :Developing AI Agent with PEAS Description
+### ExpNo 1 :Developing AI Agent with PEAS Description
 Name: Jayavarthan P
 Register Number:212222100015
 ## AIM:
@@ -30,6 +30,7 @@ Treat unhealthy patients in each room. And check for the unhealthy patients in r
 Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented
 
 ## PROGRAM:
+```
 class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
@@ -72,6 +73,7 @@ class VacuumCleanerAgent:
     def print_status(self):
         # Print the current status of the agent
         print(f"Location: {self.location}, Dirt Status: {self.dirt_status}")
+```
 
 # Example usage:
 agent = VacuumCleanerAgent()
